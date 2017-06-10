@@ -1,0 +1,9 @@
+[core]
+	editor = vim
+[user]
+	name = Tugdwal
+	email = tudal.le.bot@gmail.com
+[push]
+	default = simple
+[credential]
+	helper = cache
