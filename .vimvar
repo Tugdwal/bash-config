@@ -1,0 +1,2 @@
+ls -lA
+gcc main.cpp -o %a.out -ll
