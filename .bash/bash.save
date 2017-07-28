@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#char_cross=$'\u2717'
+
+#git_status=$(command git status ${git_status_flags} 2> /dev/null | tail -n1)
+
+#PS1="${normal}[${light_gray}$(user)${normal}@${light_gray}$(hostname)${normal}][${light_red}$(dir)${normal}]$(prompt_git)$(sh_lvl)$(is_vim_shell)[$(root)] "
+
+#if [ $? -ne 0 ]; then
+#    PS1+="[${light_red}$(root)${normal}]"
+#else
+#    PS1+="[${green}$(root)${normal}]"
+#fi
+
+#loaded="LOADED_${base^^}"
+#unset
+#if [[ -z ${!loaded} ]]; then
+
