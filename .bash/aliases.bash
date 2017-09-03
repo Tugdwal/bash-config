@@ -13,7 +13,7 @@ alias la="ls -A"
 alias apti="sudo apt install"
 alias apts="sudo apt search"
 alias aptr="sudo apt remove"
-alias aptu="sudo apt update"
+alias aptu="sudo apt update && sudo apt upgrade"
 
 if [ -x "/usr/bin/dircolors" ]; then
     (test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)") || eval "$(dircolors -b)"
