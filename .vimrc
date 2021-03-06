@@ -61,7 +61,8 @@ set wildmenu
 " ######################################## "
 
 highlight clear Cursorline
-highlight Cursorline cterm=underline ctermbg=None ctermfg=None gui=underline guibg=None guifg=None
+" highlight Cursorline cterm=underline ctermbg=None ctermfg=None gui=underline guibg=None guifg=None
+highlight Cursorline cterm=underline ctermbg=NONE ctermfg=NONE gui=underline guibg=NONE guifg=NONE
 
 highlight PreProc NONE
 highlight NonText ctermfg=Cyan
